@@ -1,4 +1,4 @@
-# baekjun_python
+# Algorithm_probs
 Solving baekjun and leetcode problems in python
 
 ## 맞은 문제
