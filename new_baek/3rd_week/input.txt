@@ -1,11 +1,3 @@
-10 3
-CYNTHIA
-LLOYD
-STEVIE
-KEVIN
-MALCOLMasfd
-DABNEY
-asdfasdfa
-asfasdfasdfas
-asdfasdfaa
-asdfasdfa
+2 3
+2 7 1
+1 9 3
