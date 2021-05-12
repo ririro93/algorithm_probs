@@ -1,6 +1,7 @@
-<body> <strong>Oops, this is</body> naughty </strong>
-<body> <strong>Hello</strong> <br /> </body>
-Just text, no tags.
-<p> Oh dear, we are missing something.
-<a href="http://www.nzprogcontest.org.nz">This is a link</a>
-#
+3
+7
+13 10 12 11 10 11 12
+5
+2 4 5 7 9
+8
+6 6 6 6 6 6 6 6
