@@ -5,12 +5,61 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch prob11054",
+            "request": "launch",
+            "mainClass": "prob11054",
+            "projectName": "algorithm_probs_7ce56f6d"
+        },
+        {
+            "type": "java",
+            "name": "Launch prob15649",
+            "request": "launch",
+            "mainClass": "prob15649",
+            "projectName": "algorithm_probs_7ce56f6d"
+        },
+        {
+            "type": "java",
+            "name": "Launch prob2750",
+            "request": "launch",
+            "mainClass": "prob2750",
+            "projectName": "algorithm_probs_7ce56f6d"
+        },
+        {
+            "type": "java",
+            "name": "Launch prob10870",
+            "request": "launch",
+            "mainClass": "prob10870",
+            "projectName": "algorithm_probs_7ce56f6d"
+        },
+        {
+            "type": "java",
+            "name": "Launch prob1316",
+            "request": "launch",
+            "mainClass": "prob1316",
+            "projectName": "algorithm_probs_7ce56f6d"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "algorithm_probs_7ce56f6d"
+        },
+        {
+            "type": "java",
+            "name": "Launch prob1065",
+            "request": "launch",
+            "mainClass": "prob1065",
+            "projectName": "algorithm_probs_7ce56f6d"
+        },
+        {
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "cwd": "${fileDirname}",
+            "cwd": "${fileDirname}"
         }
     ]
 }
